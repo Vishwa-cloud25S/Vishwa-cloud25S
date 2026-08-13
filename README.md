@@ -2,7 +2,7 @@
 
 **Data Engineer · MSc Computer Science (University of Bath) · ML Robustness Researcher**
 
-I'm a data engineer with 2+ years of industry experience at Accenture and a Master's in
+I'm a data engineer with 3+ years of industry experience at Accenture and a Master's in
 Computer Science from the University of Bath, where my dissertation studied why deep video
 models break — and how to measure it. I build reliable data platforms by day and study
 robust, interpretable machine learning by night.
