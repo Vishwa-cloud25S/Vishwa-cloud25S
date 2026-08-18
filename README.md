@@ -7,8 +7,8 @@ Computer Science from the University of Bath, where my dissertation studied why 
 models break — and how to measure it. I build reliable data platforms by day and study
 robust, interpretable machine learning by night.
 
-🔭 **Currently:** open to **Data / ML Engineering roles in the UK** and **PhD opportunities
-(UK · Germany · Europe)** in robust & interpretable deep learning for video understanding.
+🔭 **Currently:** open to **Data / ML Engineering roles
+in robust & interpretable deep learning for video understanding.
 
 ---
 
